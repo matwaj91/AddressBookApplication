@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586201900 source:c:\users\mara\desktop\mati\addressbook\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<vector>
+	<cstring>
+	<sstream>
+	<algorithm>
+
